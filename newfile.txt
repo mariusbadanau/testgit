@@ -1,2 +1,0 @@
-A free visual Hg and Git client for Mac and Windows
-SourceTree simplifies how you interact with your Git and Mercurial repositories so you can focus on coding. Visualize and manage your repositories through SourceTree's simple interface.

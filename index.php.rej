@@ -1,7 +1,0 @@
-diff a/index.php b/index.php	(rejected hunks)
-@@ -0,3 +0,4 @@
- echo $ip_address;
- 
- 
-+?>
-\ No newline at end of file
