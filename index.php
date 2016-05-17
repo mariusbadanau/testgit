@@ -13,5 +13,4 @@ else {
 }
 echo $ip_address;
 
-
 ?>
